@@ -1,0 +1,13 @@
+node_modules
+.next
+out
+.env
+.env.local
+.env.*.local
+coverage
+.DS_Store
+.env.*
+!.env.example
+.idea/
+*.tsbuildinfo
+public/project-assets/weather/views(20261111-211413).py

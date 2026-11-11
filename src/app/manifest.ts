@@ -1,0 +1,1 @@
+import type {MetadataRoute} from "next"; export default function manifest():MetadataRoute.Manifest{return {name:"Aashay Rishuraj Portfolio",short_name:"Aashay",description:"Data analytics, data science and AI portfolio",start_url:"/",display:"standalone",background_color:"#080d17",theme_color:"#080d17",icons:[]}}

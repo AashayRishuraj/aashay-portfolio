@@ -1,0 +1,4 @@
+export const experience = [
+ {company:"KM Infra",role:"Product Manager Intern",period:"July 2025 – October 2025",location:"Gujarat",points:["Analysed user feedback in Excel to prioritize product features and inform sprint planning.","Conducted market research and competitor analysis to contribute structured insights to product roadmap decisions.","Collaborated with cross-functional teams during Agile sprints, translating findings into actionable product requirements."]},
+ {company:"AICTE–Eduskills",role:"AI/ML Virtual Intern",period:"January 2025 – March 2025",location:"Remote",points:["Built and evaluated classification and regression models using Python and Scikit-learn.","Performed exploratory data analysis, data cleaning and feature engineering on real datasets.","Compared model performance using accuracy, precision and recall."]}
+] as const;
