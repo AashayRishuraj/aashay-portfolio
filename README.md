@@ -1,4 +1,4 @@
-# Aashay Rishuraj — Data & Analytics Portfolio (Phase 7)
+# Aashay Rishuraj — Data & Analytics Portfolio
 
 ## Included
 - Next.js portfolio baseline from Phase 6
